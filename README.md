@@ -3,7 +3,7 @@
 Welcome to my GitHub page! Here, you'll find an overview of my educational background, projects, skills, achievements, and international publications. Feel free to explore the links for detailed information on each subject.
 
 
-![Mohd. Umar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=radical&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=radical&rank_icon=github)
 ![Top Strak](https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar04&theme=radical&)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdUmar04&layout=compact&theme=radical)
