@@ -1,12 +1,17 @@
-# Mohd. Umar
+
 
 Welcome to my GitHub page! Here, you'll find an overview of my educational background, projects, skills, achievements, and international publications. Feel free to explore the links for detailed information on each subject.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=gotham&rank_icon=github&custom_title=GitHub+Stats)
+![Top Strak](https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar04&theme=gotham&)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=radical&rank_icon=github)
-![Top Strak](https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar04&theme=radical&)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdUmar04&layout=compact&theme=gotham)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdUmar04&layout=compact&theme=radical)
+Hi, I'm Mohd. Umar, a passionate and dedicated Computer Science and Engineering graduate from Pranveer Singh Institute of Technology. With a solid academic background and hands-on experience in machine learning, mobile app development, and data analysis, I thrive on solving complex problems and creating innovative solutions. My journey in tech has been marked by developing impactful projects like CropExpert, a holistic agricultural solution leveraging machine learning, and various Android applications that enhance user engagement and health awareness.
+
+I'm proficient in multiple languages including Java, Python, and Kotlin, and have a deep understanding of data structures, algorithms, and object-oriented programming. My technical skills are complemented by my achievements, including qualifying for the prestigious Amazon ML Summer School and securing top ranks in competitive coding and hackathons.
+
+As an author and researcher, I have contributed to international publications, and I am always eager to learn and grow in the dynamic field of technology. When I'm not coding, you can find me enhancing my skills in graphic design and video editing or solving challenges on top coding platforms. Feel free to connect with me on GitHub and LinkedIn to collaborate on exciting projects or just to have a tech chat!
 
 
 
