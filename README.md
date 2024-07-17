@@ -2,10 +2,27 @@
 
 Welcome to my GitHub page! Here, you'll find an overview of my educational background, projects, skills, achievements, and international publications. Feel free to explore the links for detailed information on each subject.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=gotham&rank_icon=github&custom_title=GitHub+Stats)
-![Top Strak](https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar04&theme=gotham&)
+## 📊 My Github Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdUmar04&layout=compact&theme=gotham)
+<p align="center">
+<a href="https://github.com/MohdUmar04">
+  <img height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=MohdUmar04&show_icons=true&theme=algolia&rank_icon=github&custom_title=GitHub+Stats" alt="MohdUmar04"/>
+  </a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MohdUmar04">
+</a>
+  <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohdUmar04&theme=algolia"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/MohdUmar04">
+    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+</a>
+</p>
+
 
 Hi, I'm Mohd. Umar, a passionate and dedicated Computer Science and Engineering graduate from Pranveer Singh Institute of Technology. With a solid academic background and hands-on experience in machine learning, mobile app development, and data analysis, I thrive on solving complex problems and creating innovative solutions. My journey in tech has been marked by developing impactful projects like CropExpert, a holistic agricultural solution leveraging machine learning, and various Android applications that enhance user engagement and health awareness.
 
