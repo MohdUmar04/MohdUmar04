@@ -43,7 +43,7 @@ As an author and researcher, I have contributed to international publications, a
 
 <p align="center">
 <a href="https://github.com/MohdUmar04">
-    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
+    <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="MohdUmar04"/>
 </a>
 </p>
 
