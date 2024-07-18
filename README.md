@@ -1,6 +1,29 @@
 
 
-Welcome to my GitHub page! Here, you'll find an overview of my educational background, projects, skills, achievements, and international publications. Feel free to explore the links for detailed information on each subject.
+
+<h2> Greetings Folks!</h2>
+
+<img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='272'/>
+
+
+
+<p>
+<a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMohdUmar04+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMohdUmar04+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+<a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3AMohdUmar04+language%3AJetPack Compose"><img alt="JetPack Compose" src="https://img.shields.io/badge/JetPackCompose-009D5.svg?logo=jetpackcompose&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+
+
+
+</p> 
+<h3>My name is Mohd. Umar</h3> 
+
+I'm proficient in multiple languages including Java, Python, and Kotlin, and have a deep understanding of data structures, algorithms, and object-oriented programming. My technical skills are complemented by my achievements, including qualifying for the prestigious Amazon ML Summer School and securing top ranks in competitive coding and hackathons.
+
+As an author and researcher, I have contributed to international publications, and I am always eager to learn and grow in the dynamic field of technology. When I'm not coding, you can find me enhancing my skills in graphic design and video editing or solving challenges on top coding platforms. Feel free to connect with me on GitHub and LinkedIn to collaborate on exciting projects or just to have a tech chat!
+
 
 ## 📊 My Github Stats
 
@@ -22,15 +45,6 @@ Welcome to my GitHub page! Here, you'll find an overview of my educational backg
     <img height="250" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanalc&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="serkanalc"/>
 </a>
 </p>
-
-
-Hi, I'm Mohd. Umar, a passionate and dedicated Computer Science and Engineering graduate from Pranveer Singh Institute of Technology. With a solid academic background and hands-on experience in machine learning, mobile app development, and data analysis, I thrive on solving complex problems and creating innovative solutions. My journey in tech has been marked by developing impactful projects like CropExpert, a holistic agricultural solution leveraging machine learning, and various Android applications that enhance user engagement and health awareness.
-
-I'm proficient in multiple languages including Java, Python, and Kotlin, and have a deep understanding of data structures, algorithms, and object-oriented programming. My technical skills are complemented by my achievements, including qualifying for the prestigious Amazon ML Summer School and securing top ranks in competitive coding and hackathons.
-
-As an author and researcher, I have contributed to international publications, and I am always eager to learn and grow in the dynamic field of technology. When I'm not coding, you can find me enhancing my skills in graphic design and video editing or solving challenges on top coding platforms. Feel free to connect with me on GitHub and LinkedIn to collaborate on exciting projects or just to have a tech chat!
-
-
 
 
 ## Education
