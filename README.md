@@ -4,9 +4,6 @@
 <h2> Greetings Folks!</h2>
 
 <img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='300'/>
-
-
-
 <p>
 <a href="#"><img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMohdUmar04+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5.svg?logo=Kotlin&logoColor=white"></a>
@@ -14,9 +11,6 @@
 <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3AMohdUmar04+language%3AJetPack Compose"><img alt="JetPack Compose" src="https://img.shields.io/badge/JetPackCompose-009D5.svg?logo=jetpackcompose&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-
-
-
 </p> 
 <h3>My name is Mohd. Umar</h3> 
 <p align="justify">
@@ -86,10 +80,6 @@ As an author and researcher, I have contributed to international publications, a
 ## International Publications
 - Authored a chapter titled "Role of Computer Vision in Manufacturing Industry" in the book “Machine Vision and Industrial Robotics” published by CRC Press, Taylor & Francis Group.
 - Presented a research paper with Paper ID-116: "Examining the Efficiency of Classification Algorithms in Spam Detection Datasets" at "THE 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES (ICCCNT)”.
-
-## GitHub Stats
-
-
 
 For more detailed information on each project, please visit the respective links provided. Feel free to reach out to me via email at mohdumarsiddiqui04@gmail.com or connect with me on [GitHub](https://github.com/MohdUmar04) and [LinkedIn](https://linkedin.com/in/mohd-umar04).
 
