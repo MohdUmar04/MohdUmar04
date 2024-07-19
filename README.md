@@ -18,9 +18,6 @@ I'm proficient in multiple languages including Java, Python, and Kotlin, and hav
 As an author and researcher, I have contributed to international publications, and I am always eager to learn and grow in the dynamic field of technology. When I'm not coding, you can find me enhancing my skills in graphic design and video editing or solving challenges on top coding platforms. Feel free to connect with me on GitHub and LinkedIn to collaborate on exciting projects or just to have a tech [chat!](https://www.linkedin.com/in/mohd-umar04/)
 </p>
 
-![Java Logo](https://img.icons8.com/?size=256&id=38294&format=png 1x, https://img.icons8.com/?size=512&id=38294&format=png 2x)
-
-
 ## 📊 My Github Stats
 
 <p align="center">
