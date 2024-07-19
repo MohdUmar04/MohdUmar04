@@ -1,6 +1,3 @@
-
-
-
 <h2> Greetings Folks!</h2>
 
 <img align="right" src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width='300'/>
@@ -87,6 +84,5 @@ For more detailed information on each project, please visit the respective links
 
 **Contact Information:**
 - **Email:** mohdumarsiddiqui04@gmail.com
-- **Phone:** +91-8931089901
 - **GitHub:** [MohdUmar04](https://github.com/MohdUmar04)
 - **LinkedIn:** [mohd-umar04](https://linkedin.com/in/mohd-umar04)
